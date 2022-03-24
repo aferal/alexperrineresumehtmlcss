@@ -1,0 +1,70 @@
+<div id="header"></div>
+<div class="left"></div>
+<div class="stuff">
+  <br><br>
+  <h1>Alex Perrine</h1>
+  <h4>Cybersecurity Student,
+ Senior at CMU </h4>
+
+ <h5> ENTERPHONEHERE
+ENTER EMAIL HERE  
+   ENTER ADDRESS HERE </h5>
+  <hr />
+  <br>
+  <p class="head">Summary</p>
+<br>
+  <body>
+I am a senior in CMU’s online and extended studies program, with a major in Cybersecurity. I currently have earned a 3.4 GPA. I have recently taken a position as Level I Help Desk at ISPN - where I am responsible for networking troubleshooting for ISP's all over the country. I have over 15 years combined Customer Service experience in various settings; plus, finance, fundraising, collections and administrative experience. I am currently studying for my first AWS Certification (AWS CCP.) I am curious, teachable, disciplined and motivated.  
+  </body> <br>
+  
+<br>
+  <p class="head">Experience</p>
+<br>
+<body>
+
+Level I Help Desk Networking – ISPN, Lenexa, Ks  March 2022 - Present <br>
+Social Media Specialist - MagiCare, Ontario, CA. Sept. - Nov 2021 <br>
+Customer Retention Specialist - FPS, Kansas City, MO August 2020 - Feb. 2021 <br>
+Admin. Assist. to VP of Athletics - CMU, Fayette, MO Apr. - Oct. 2019 <br>
+Asst. Supervisor Billing Office - CMU, Fayette, MO Feb. 2018 - April 2019 <br>
+Mutual Funds Representative - DST, Kansas City, MO  August 2016 - May 2017 <br>
+
+  </body>
+<br>
+  <p class="head">Education</p>
+  <ul>
+    <a href="https://centralmethodist.edu/">
+      <li>B.S. Cybersecurity December 2022  <br> 
+        Central Methodist University, Fayette, MO </li>
+    </a>
+<a href="https://centralmethodist.edu/">
+      <li>A.S., Interdisciplinary Studies, December 2019 
+<br>
+        Central Methodist University, Fayette, MO </li>
+    </a>
+    <!--Link-->
+    <a href="https://www.woodcountyschoolswv.com/o/ph">
+      <li>Graduating Class of 2006 
+<br> 
+Parkersburg High School</li>
+    </a>
+  </ul>
+  <br> 
+  <p class="head">Affiliations</p>
+  <ul>
+    <li>Women In CyberSecurity</li>
+    <li>TryHackMe</li>
+    <li>CyberSkyline</li>
+    <li>Recipient of EC-Council CEH Exam Scholarship</li>
+  </ul>
+<br>
+<p class="head">Certifications</p>
+  <ul>
+    <li>Scrum Master Certified / Scrum Agile Master Certified via VEMU </li>
+    <li>CompTIA – IT Fundamentals </li>
+  </ul>
+</div>
+<div class="right"></div>
+<div id="footer">
+  </div>
+  
